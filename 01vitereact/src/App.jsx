@@ -1,11 +1,11 @@
 import './App.css'
-import Chai from "./chai.jsx"
+import Shop from "./shop"
 
 function App() {
 
   return (
     <>
-    <Chai />
+    <Shop />
     </>
   )
 }
